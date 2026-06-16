@@ -37,6 +37,12 @@ This project demonstrates a two-source data pipeline: web scraping (HTML) and AP
 - Europe and Americas are net migration gainers; Asia and Africa are net losers
 - Western Europe and North America are the most urbanised subregions; Southern Asia and Eastern Africa the least
 
+### Fertility Rate vs Median Age by Region
+![Fertility Rate vs Median Age](docs/03_fertility_vs_median_age.png)
+
+### Net Migration by Region
+![Net Migration by Region](docs/05_migration_by_region.png)
+
 ## Project Structure
 
 ```
